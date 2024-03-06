@@ -1,0 +1,38 @@
+/*void main() {
+ String nome = 'Joãko';
+  int idade = 16;
+  double altura = 1.83;
+  
+  print('${nome} tem ${altura} metros e ${idade} anos');
+  }*/
+
+/*void main(){
+  String nome = 'João';
+  String nome2 = 'Luigi';
+  
+  print(nome == nome2);
+  print(nome != nome2);
+  
+  print ('----------------------------');
+  
+  int num1 = 69;
+  int num2 = 100;
+  
+  print(num1 == num2);
+  print(num1 != num2);
+  
+  print('------------------------------');
+
+  double iphone = 200;
+  double xiaomi = 100;
+  
+  print(xiaomi == iphone);
+  print(xiaomi != iphone);
+} */
+
+faça uma lista de idades uma de nomes e uma de profissão, iprima uma mensagem usando a 3 listas para personalizar a mensagem
+  ex: 'João tem 20 anos, sua profissão é: professor'
+    exemplo de lita:
+List<int> numeros = [1, 2, 3, 4, 5];
+print(numeross[0]);
+
